@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 博客上线啦
-date: 2026-08-28 12:00:00
+date: 2026-08-28 08:00:00 +0800
 description: 第一篇博文：博客怎么搭建的，以及以后写什么
 tags: 随笔
 categories: blog
